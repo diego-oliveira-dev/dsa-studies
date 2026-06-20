@@ -1,7 +1,7 @@
-# Spring Learning Journey
+# Data Structure and Algorithms
 
-This repository contains my hands-on practice while learning Spring Boot.
-The goal is to build a solid understanding of REST APIs and Spring Boot fundamentals.
+This repository contains my hands-on practice while Data Structure and Algorithms.
+The goal is to build a strong foundation in DSA, developing the ability to analyze problems, choose appropriate data structures, and implement efficient solutions.
 
 ## 🎯 Purpose
 
