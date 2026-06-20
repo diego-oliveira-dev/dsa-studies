@@ -2,7 +2,7 @@ package dsa.arrays;
 
 import java.util.Arrays;
 
-public class Arrays2 {
+public class ConcatenationOfArray {
     // Leetcode 1929. Concatenation of Array
     public static void main(String[] args) {
         int[] nums = {1, 2, 1};
